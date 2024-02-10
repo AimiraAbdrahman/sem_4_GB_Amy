@@ -1,0 +1,15 @@
+/Users/amy/Documents/GeekBrains/sem_4/bin/Debug/net8.0/sem_4
+/Users/amy/Documents/GeekBrains/sem_4/bin/Debug/net8.0/sem_4.deps.json
+/Users/amy/Documents/GeekBrains/sem_4/bin/Debug/net8.0/sem_4.runtimeconfig.json
+/Users/amy/Documents/GeekBrains/sem_4/bin/Debug/net8.0/sem_4.dll
+/Users/amy/Documents/GeekBrains/sem_4/bin/Debug/net8.0/sem_4.pdb
+/Users/amy/Documents/GeekBrains/sem_4/obj/Debug/net8.0/sem_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amy/Documents/GeekBrains/sem_4/obj/Debug/net8.0/sem_4.AssemblyInfoInputs.cache
+/Users/amy/Documents/GeekBrains/sem_4/obj/Debug/net8.0/sem_4.AssemblyInfo.cs
+/Users/amy/Documents/GeekBrains/sem_4/obj/Debug/net8.0/sem_4.csproj.CoreCompileInputs.cache
+/Users/amy/Documents/GeekBrains/sem_4/obj/Debug/net8.0/sem_4.sourcelink.json
+/Users/amy/Documents/GeekBrains/sem_4/obj/Debug/net8.0/sem_4.dll
+/Users/amy/Documents/GeekBrains/sem_4/obj/Debug/net8.0/refint/sem_4.dll
+/Users/amy/Documents/GeekBrains/sem_4/obj/Debug/net8.0/sem_4.pdb
+/Users/amy/Documents/GeekBrains/sem_4/obj/Debug/net8.0/sem_4.genruntimeconfig.cache
+/Users/amy/Documents/GeekBrains/sem_4/obj/Debug/net8.0/ref/sem_4.dll
